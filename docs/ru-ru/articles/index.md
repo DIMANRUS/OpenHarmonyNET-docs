@@ -1,3 +1,3 @@
-# Getting Started
+# Начало работы
 
-This article will introduce how to develop native libraries for the HarmonyOS system using .NET and NDK. If you want to develop complete HarmonyOS applications with .NET, please refer to the [Avalonia](avalonia/introduction.md) **and** Blazor Hybrid chapters.
+В этой статье рассказывается о том, как разрабатывать собственные библиотеки для системы Harmony с использованием .NET и NDK. Если вы хотите разрабатывать полноценные приложения Harmony OS с использованием .NET, пожалуйста, обратитесь к разделам [Avalonia](avalonia/introduction.md) **и** [Blazor Hybrid](blazor-hybrid/introduction.md).
