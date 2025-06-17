@@ -20,7 +20,8 @@
         // Define supported languages with their code and element ID
         const languages = {
             "zh-cn": { id: "zh-cn-link", name: "简体中文" },
-            "en-us": { id: "en-us-link", name: "English" }
+            "en-us": { id: "en-us-link", name: "English" },
+            "ru-ru": { id: "ru-ru-link", name: "Русский" }
         };
 
         function updateLanguageLinks() {
